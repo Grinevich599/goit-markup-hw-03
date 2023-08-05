@@ -288,9 +288,6 @@ img{
     flex-direction: column;
 }
 
-main {
-    flex-grow: 1;
-}
 
 .lower-bloc {
     background-color: var(--headings-navy-blue);
